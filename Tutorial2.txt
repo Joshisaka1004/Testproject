@@ -1,5 +1,7 @@
 Closures
 
+// Im ersten Beispiel sehen wir, dass einer Konstanten namens myC1 quasi eine namenlose Funktion zugewiesen wird; in den runden Klammern befinden sich derzeit jedoch keine Parameter, da lediglich ein print-Befehl innerhalb der geschweiften Klammern aufgeführt wird.
+
 Example 1:
 
 let myC1 = (
