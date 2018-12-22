@@ -8,3 +8,13 @@ let myC1 = (
 {print("Okay!")}
 )
 myC1()
+
+Example 2:
+
+let myC2 = ({(a: Double, b: Double) -> Double
+    in
+    var res1 = a + b
+    res1 *= 2
+    return a * b + res1
+})
+print(myC2(4, 9))
