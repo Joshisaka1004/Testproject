@@ -1,0 +1,5 @@
+Closures
+
+Example 1:
+
+let mySentence = ({print(„Hello Closures!“)}
