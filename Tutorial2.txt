@@ -2,4 +2,7 @@ Closures
 
 Example 1:
 
-let mySentence = ({print(„Hello Closures!“)}
+let myC1 = (
+{print("Okay!")}
+)
+myC1()
